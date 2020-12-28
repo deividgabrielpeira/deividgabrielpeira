@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deivid Gabriel</h1>
 <h3 align="center">Programetion</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deividgabrielpeira&label=Profile%20views&color=0e75b6&style=flat" alt="deividgabrielpeira" /> </p>
-
+<h3 align="left">My trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deividgabrielpeira" alt="deividgabrielpeira" /></a> </p>
 
 ----
@@ -37,8 +36,12 @@
 ----
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deividgabrielpeira&show_icons=true&locale=en&layout=compact" alt="deividgabrielpeira" /></p>
+<details>
+<summary>:zap: Top Langas</summary>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deividgabrielpeira&show_icons=true&locale=en&layout=compact" alt="deividgabrielpeira" /></p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&locale=en" alt="deividgabrielpeira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividgabrielpeira&" alt="deividgabrielpeira" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <p><img align="center" alt="deividgabrielpeira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&hide_border=true" /></p>
+</details>
