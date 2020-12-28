@@ -29,7 +29,10 @@
 
 ---
 
-[![DeividGabriel's github stats](https://github-readme-stats.vercel.app/api?username=deividgabrielpeira)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="deividgabrielpeira's GitHub Stats" src="https://github-readme-stats-01.deividgabrielpeira.vercel.app/api?username=deividgabrielpeira&show_icons=true&hide_border=true" />
+</details>
 
 ---
 
