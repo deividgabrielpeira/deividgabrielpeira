@@ -37,11 +37,11 @@
 
 
 <details>
-<summary>:zap: Top Langas</summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deividgabrielpeira&show_icons=true&locale=en&layout=compact" alt="deividgabrielpeira" /></p>
+  <summary>:zap: GitHub Stats</summary>
+  <p><img align="center" alt="deividgabrielpeira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&hide_border=true" /></p>
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <p><img align="center" alt="deividgabrielpeira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&hide_border=true" /></p>
+<summary>:zap: Top Langas</summary>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deividgabrielpeira&show_icons=true&locale=en&layout=compact" alt="deividgabrielpeira" /></p>
 </details>
