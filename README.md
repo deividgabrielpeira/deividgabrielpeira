@@ -6,6 +6,30 @@
 
 ----
 
+<br>
+<div>
+<h2 align="left"> 🦊  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  🦊 </h2>
+<img hight="400" width="500" alt="GIF" align="right" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+<li>
+<b>Name:</b> Deivid Gabriel</li>
+<li>
+<b>Loves:</b> Games,manga and Animes
+</li>
+<li>
+<b>Gender:</b> Male
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff,Games development and Cosplay
+</li>
+<li>
+<b>Working @:</b> Not working '='
+</li>
+<br>
+</div>
+
+----
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/deividgabrielpeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="deividgabrielpeira" height="30" width="40" /></a>
