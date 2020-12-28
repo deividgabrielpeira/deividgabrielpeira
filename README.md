@@ -34,8 +34,7 @@
   <img align="left" alt="deividgabrielpeira's GitHub Stats" src="https://github-readme-stats-01.deividgabrielpeira.vercel.app/api?username=deividgabrielpeira&show_icons=true&hide_border=true" />
 </details>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deividgabrielpeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![deividgabrielpeira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deividgabrielpeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Top Langs</summary>
+  <img align="left" alt="deividgabrielpeira's GitHub Top Langs" src="https://github-readme-stats-01.deividgabrielpeira.vercel.app/api/top-langs?username=deividgabrielpeira&show_icons=true&hide_border=true" />
+</details>
