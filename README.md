@@ -2,8 +2,8 @@
 
 ----
 
-<br>
-<div>
+- 👨‍💻 [You can also check out my portfolio at [Comming soon]
+
 <h2 align="left">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 <li>
 <b>Name:</b> Deivid Gabriel</li>
@@ -17,13 +17,10 @@
 <b>Hobbys:</b> Tech Stuff,Games development and Cosplay
 </li>
 <li>
-<b>Working @:</b> Not working '='
+<b>Working:</b> Not working.
 </li>
-<br>
-</div>
 
 ----
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
