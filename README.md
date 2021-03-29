@@ -2,8 +2,6 @@
 
 ----
 
-- 👨‍💻 [You can also check out my portfolio at [Comming soon]
-
 <h2 align="left">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 <li>
 <b>Name:</b> Deivid Gabriel</li>
@@ -42,15 +40,3 @@
 <a href="https://www.topcoder.com/members/deividgabrielp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="deividgabrielp" height="30" width="40" /></a>
 <a href="https://discord.gg/Deividgab#5479" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Deividgab#5479" height="30" width="40" /></a>
 </p>
-
-----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <p><img align="center" alt="deividgabrielpeira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&hide_border=true" /></p>
-</details>
-
-<details>
-<summary>:zap: Top Langas</summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deividgabrielpeira&show_icons=true&locale=en&layout=compact" alt="deividgabrielpeira" /></p>
-</details>
