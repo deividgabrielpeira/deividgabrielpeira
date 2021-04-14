@@ -21,9 +21,9 @@
 
 <br>
 
-<a href="#">
+<a href="https://github.com/deividgabrielpeira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&theme=default"/>
 </a>
-<a href="#">
+<a href="https://github.com/deividgabrielpeira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividgabrielpeira&layout=compact)]"/>
 </a>
