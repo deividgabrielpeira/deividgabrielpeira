@@ -46,9 +46,6 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
