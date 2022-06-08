@@ -24,9 +24,11 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 <br>
 
 ## 🎮 &nbsp;Jogos
-![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white?link=https://steamcommunity.com/id/deividgabrielp/)&nbsp;
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
-![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)&nbsp;
+<p align="left">
+  <a href="https://steamcommunity.com/id/deividgabrielp/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&nbsp;" /></a>
+
+</p>
 
 <br>
 
