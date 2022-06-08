@@ -43,7 +43,7 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&pereiradeoliveiradeividgabriel@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/deivid-gabriel-pereira-de-oliveira-30769a20a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-gabriel-pereira-de-oliveira-30769a20a/" /></a>
 
   <a href="#" alt="Instagram">
