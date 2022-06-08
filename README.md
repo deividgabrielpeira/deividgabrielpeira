@@ -26,7 +26,7 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 ## 🎮 &nbsp;Jogos
 <p align="left">
   <a href="https://steamcommunity.com/id/deividgabrielp/">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&nbsp;" /></a>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&" /></a>
 
 </p>
 
