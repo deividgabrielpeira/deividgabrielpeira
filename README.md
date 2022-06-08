@@ -40,9 +40,6 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 ## &nbsp;Redes Sociais!
   
 <p align="left">
-  <a href="pereiradeoliveiradeividgabriel@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
   <a href="https://www.linkedin.com/in/deivid-gabriel-pereira-de-oliveira-30769a20a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
