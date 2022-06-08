@@ -40,14 +40,14 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 ## &nbsp;Redes Sociais!
   
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&pereiradeoliveiradeividgabriel@gmail.com" /></a>
+  <a href="pereiradeoliveiradeividgabriel@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/deivid-gabriel-pereira-de-oliveira-30769a20a/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-gabriel-pereira-de-oliveira-30769a20a/" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
  
 ## &nbsp;Streaming!
