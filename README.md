@@ -23,7 +23,6 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 <br>
 
 ## 👨‍💻 Programas
-
 ![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=Blender&logoColor=white)&nbsp;
 
 ![Unity](https://img.shields.io/badge/Unity-14354C?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;
@@ -48,8 +47,7 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 <div align="left">
   <a href="https://github.com/deividgabrielpeira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividgabrielpeira&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=deividgabrielpeira&" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividgabrielpeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <br>
