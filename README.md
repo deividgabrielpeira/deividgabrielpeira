@@ -31,7 +31,7 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![Adobe Photoshop](https://img.shields.io/badge/-VSCODE-14354C?style=for-the-badge&logo=adobe-Photoshop&logoColor=007ACC)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-14354C?style=for-the-badge&logo=adobe-Photoshop&logoColor=007ACC)&nbsp;
 
 <br>
 
