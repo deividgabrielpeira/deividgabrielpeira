@@ -24,14 +24,11 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 
 ## 👨‍💻 Programas
 ![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=Blender&logoColor=white)&nbsp;
-
 ![Unity](https://img.shields.io/badge/Unity-14354C?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;
-
 ![unrealengine](https://img.shields.io/badge/UnrealEngine-14354C?style=for-the-badge&logo=UnrealEngine&logoColor=black)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-![Adobe Photoshop](https://img.shields.io/badge/-VSCODE-14354C?style=for-the-badge&logo=adobe-Photoshop&logoColor=007ACC)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-14354C?style=for-the-badge&logo=adobe-Photoshop&logoColor=007ACC)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-14354C?style=for-the-badge&logo=adobe-illustrator&logoColor=green)&nbsp;
 
 <br>
 
