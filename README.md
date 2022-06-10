@@ -47,7 +47,7 @@ Gosto de criar ótimos softwares e jogos, tambem eu ajudo as outras pessoas a fa
 <div align="left">
   <a href="https://github.com/deividgabrielpeira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deividgabrielpeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividgabrielpeira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividgabrielpeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <br>
